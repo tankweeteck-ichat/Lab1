@@ -1,0 +1,3 @@
+[submodule "KTPythonLib"]
+	path = KTPythonLib
+	url = https://github.com/kwee-tan-yahoo/KTPythonLib.git
